@@ -1,0 +1,29 @@
+ul {
+	background-color: #C6CFFD;
+	width: 50%;	
+	border: 10px solid blue;
+	padding: 30px;	
+	margin: auto;
+	margin-top: 20px;
+	text-align: center;
+}
+h1{
+	
+	text-align: center;
+	color: white;
+	font-family: Verdana;
+	background-color: #00106A;
+	border: 10px solid blue;
+	padding: 30px;
+	width: 50%;
+	margin: auto;
+}
+body{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
